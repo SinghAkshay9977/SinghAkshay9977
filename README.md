@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SinghAkshay9977
-- 👀 I’m interested in exploring things 
+- 👋 Hi, I’m Akshay singh
+- 👀 I’m interested in exploring things / skill based learning
 - 🌱 I’m currently learning java full satck
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me through linkedin/twitter
